@@ -5,3 +5,4 @@ My name is Kishore V.S. I am studying B.Tech in Computer Science and Engineering
 
 Skill: Learning Java
 Interest: Web Development
+Goal: Build a strong engineering portfolio
